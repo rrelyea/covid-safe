@@ -145,7 +145,7 @@ function App() {
                 <p>Once you get a prescription, sometimes it helps to know which pharmacies have these in stock:</p>
                 <a href="https://rrelyea.github.io/paxlovid" rel="noopener">Paxlovid locator</a><br/>
                 <a href="https://rrelyea.github.io/bebtelovimab" rel="noopener">Bebtelovimab locator</a><br/> 
-                <a href="https://rrelyea.github.io/lagevrio" rel="noopener">Lagevrio locator</a><br/>
+                <a href="https://rrelyea.github.io/lagevrio" rel="noopener">Molnuripavir (Lagevrio) locator</a><br/>
               </div>
             </div>
           </div>
