@@ -8,25 +8,25 @@ import ventilation from './assets/img/ventilation-icon.svg';
 function App() {
   return ( <div className="App">
 
-  <main id="main-content" class="covidgov-main">
-    <div class="location-toolkit-wrap">
-      <div class="toolkit">
-        <div class="toolkit__wrap">
-          <div class="toolkit__intro">
-            <h1 class="center">covid-safe</h1>
+  <main id="main-content" className="covidgov-main">
+    <div className="location-toolkit-wrap">
+      <div className="toolkit">
+        <div className="toolkit__wrap">
+          <div className="toolkit__intro">
+          <h1 className="center">covid-safe</h1>
             <p>Resources to keep yourself and others safe from COVID-&#8288;19.</p>
             <p>(Info from <a href='https://covid.gov'>covid.gov</a>, reorganized, and supplemented.)</p>
           </div>
-          <h2 class="line-title">Preventive Medicines</h2>
-          <div class="toolkit__boxes">
-            <div class="toolkit__box">
-              <div class="toolkit__box__icon toolkit__desktop__icon">
-                <img src={syringe} class="small" width="47" height="55" alt="Syringe Icon" />
+          <h2 className="line-title">Preventive Medicines</h2>
+          <div className="toolkit__boxes">
+            <div className="toolkit__box">
+              <div className="toolkit__box__icon toolkit__desktop__icon">
+                <img src={syringe} className="small" width="47" height="55" alt="Syringe Icon" />
               </div>
-              <div class="toolkit__box__content">
+              <div className="toolkit__box__content">
                 <h3>
-                  <div class="toolkit__box__icon toolkit__mobile__icon">
-                    <img src={syringe} class="small" width="47" height="55" alt="Syringe Icon" />
+                  <div className="toolkit__box__icon toolkit__mobile__icon">
+                    <img src={syringe} className="small" width="47" height="55" alt="Syringe Icon" />
                   </div>
                   <span>Vaccines/Boosters</span>
                 </h3>
@@ -34,14 +34,14 @@ function App() {
                 <a href="https://vaccines.gov/search" rel="noopener">Find a vaccine or booster at vaccines.gov</a>
               </div>
             </div>
-            <div class="toolkit__box">
-              <div class="toolkit__box__icon toolkit__desktop__icon">
-                <img src={syringe} class="small" width="47" height="55" alt="Syringe Icon" />
+            <div className="toolkit__box">
+              <div className="toolkit__box__icon toolkit__desktop__icon">
+                <img src={syringe} className="small" width="47" height="55" alt="Syringe Icon" />
               </div>
-              <div class="toolkit__box__content">
+              <div className="toolkit__box__content">
                 <h3>
-                  <div class="toolkit__box__icon toolkit__mobile__icon">
-                    <img src={syringe} class="small" width="47" height="55" alt="Syringe Icon" />
+                  <div className="toolkit__box__icon toolkit__mobile__icon">
+                    <img src={syringe} className="small" width="47" height="55" alt="Syringe Icon" />
                   </div>
                   <span>Additional Protection for the Immunocompromised</span>
                 </h3>
@@ -57,15 +57,15 @@ function App() {
             </div>
           </div>
 
-          <h2 class="line-title">Protective Measures</h2>
-          <div class="toolkit__boxes">
-            <div class="toolkit__box">
-              <div class="toolkit__box__icon toolkit__desktop__icon">
+          <h2 className="line-title">Protective Measures</h2>
+          <div className="toolkit__boxes">
+            <div className="toolkit__box">
+              <div className="toolkit__box__icon toolkit__desktop__icon">
                 <img src={masks} width="52" height="31" alt="Mask Icon" />
               </div>
-              <div class="toolkit__box__content">
+              <div className="toolkit__box__content">
                 <h3>
-                  <div class="toolkit__box__icon toolkit__mobile__icon">
+                  <div className="toolkit__box__icon toolkit__mobile__icon">
                     <img src={masks} width="52" height="31" alt="Mask Icon" />
                   </div>
                   <span>Masks</span>
@@ -75,13 +75,13 @@ function App() {
                 <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/masks.html" rel="noopener">Learn more about masks and where to get them</a>
               </div>
             </div>
-            <div class="toolkit__box">
-              <div class="toolkit__box__icon toolkit__desktop__icon">
+            <div className="toolkit__box">
+              <div className="toolkit__box__icon toolkit__desktop__icon">
                 <img src={ventilation} width="38" height="38" alt="Ventilation Icon" />
               </div>
-              <div class="toolkit__box__content">
+              <div className="toolkit__box__content">
                 <h3>
-                  <div class="toolkit__box__icon toolkit__mobile__icon">
+                  <div className="toolkit__box__icon toolkit__mobile__icon">
                     <img src={ventilation} width="38" height="38" alt="Ventilation Icon" />
                   </div>
                   <span>Ventilation</span>
@@ -90,13 +90,13 @@ function App() {
                 <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/improving-ventilation-home.html" rel="noopener">Improve Ventilation in Your Home</a>
               </div>
             </div>
-            <div class="toolkit__box">
-              <div class="toolkit__box__icon toolkit__desktop__icon">
+            <div className="toolkit__box">
+              <div className="toolkit__box__icon toolkit__desktop__icon">
                 <img src={tests} width="32" height="42" alt="Beaker Icon" />
               </div>
-              <div class="toolkit__box__content">
+              <div className="toolkit__box__content">
                 <h3>
-                  <div class="toolkit__box__icon toolkit__mobile__icon">
+                  <div className="toolkit__box__icon toolkit__mobile__icon">
                     <img src={tests} width="32" height="42" alt="Beaker Icon" />
                   </div>
                   <span>Testing</span>
@@ -112,36 +112,36 @@ function App() {
             </div>
           </div>
 
-          <h2 class="line-title">Have Covid?</h2>
-          <div class="toolkit__boxes">
-            <div class="toolkit__box">
-              <div class="toolkit__box__icon toolkit__desktop__icon">
+          <h2 className="line-title">Have Covid?</h2>
+          <div className="toolkit__boxes">
+            <div className="toolkit__box">
+              <div className="toolkit__box__icon toolkit__desktop__icon">
                 <img src={treatment} width="38" height="38" alt="Medical Icon" />
               </div>
-              <div class="toolkit__box__content">
+              <div className="toolkit__box__content">
                 <h3>
-                  <div class="toolkit__box__icon toolkit__mobile__icon">
+                  <div className="toolkit__box__icon toolkit__mobile__icon">
                     <img src={treatment} width="38" height="38" alt="Medical Icon" />
                   </div>
                   <span>Test-to-Treat</span>
                 </h3>
-                <p>Treatments for COVID-&#8288;19 are now widely available. If you test positive for COVID-19, talk to a doctor as soon as possible about <a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/treatments-for-severe-illness.html" class="usa-link usa-link--external" rel="noopener">treatment options</a>.</p>
+                <p>Treatments for COVID-&#8288;19 are now widely available. If you test positive for COVID-19, talk to a doctor as soon as possible about <a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/treatments-for-severe-illness.html" className="usa-link usa-link--external" rel="noopener">treatment options</a>.</p>
                 <p>The Test-to-Treat program is one easy way to get treatment. Test-to-Treat locations will give you a test and treatment.</p>
                 <a href="https://COVID-&#8288;19-test-to-treat-locator-dhhs.hub.arcgis.com" rel="noopener">Find a Test-to-Treat location near you</a>
               </div>
             </div>
-            <div class="toolkit__box">
-              <div class="toolkit__box__icon toolkit__desktop__icon">
+            <div className="toolkit__box">
+              <div className="toolkit__box__icon toolkit__desktop__icon">
                 <img src={treatment} width="38" height="38" alt="Medical Icon" />
               </div>
-              <div class="toolkit__box__content">
+              <div className="toolkit__box__content">
                 <h3>
-                  <div class="toolkit__box__icon toolkit__mobile__icon">
+                  <div className="toolkit__box__icon toolkit__mobile__icon">
                     <img src={treatment} width="38" height="38" alt="Medical Icon" />
                   </div>
                   <span>Treatments</span>
                 </h3>
-                <p>Treatments for COVID-&#8288;19 are now widely available. If you test positive for COVID-19, talk to a doctor as soon as possible about <a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/treatments-for-severe-illness.html" class="usa-link usa-link--external" rel="noopener">treatment options</a>.</p>
+                <p>Treatments for COVID-&#8288;19 are now widely available. If you test positive for COVID-19, talk to a doctor as soon as possible about <a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/treatments-for-severe-illness.html" className="usa-link usa-link--external" rel="noopener">treatment options</a>.</p>
                 <p>Once you get a prescription, sometimes it helps to know which pharmacies have these in stock:</p>
                 <a href="https://rrelyea.github.io/paxlovid" rel="noopener">Paxlovid locator</a><br/>
                 <a href="https://rrelyea.github.io/bebtelovimab" rel="noopener">Bebtelovimab locator</a><br/> 
@@ -155,6 +155,7 @@ function App() {
   </main>
   Contact: <a href="https://linktr.ee/rrelyea">Rob Relyea</a><br/>
   Open Source: <a href="https://github.com/rrelyea/covid-safe">github.com/rrelyea/covid-safe</a><br/>
+  <br/>
 
     </div>
   );
