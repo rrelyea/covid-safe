@@ -1,0 +1,10 @@
+{
+  "short_name": "Covid-Safe",
+  "name": "Covid-Safe: Vaccines, Evusheld, Masks, Tests, Ventilation, Test-to-Treat, Treatments",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
