@@ -15,7 +15,7 @@ function App() {
         <div className="toolkit__wrap">
           <div className="toolkit__intro">
           <h1 className="center">covid-safe</h1>
-            <p>Info from <a href='https://covid.gov'>covid.gov</a>, reorganized, and supplemented by other trusted sites to keep yourself and others safe from COVID-&#8288;19.</p>
+            <p>Currated content from trusted sites (<a href='https://covid.gov'>covid.gov</a>, etc...) to keep yourself and others safe from COVID-⁠19.</p>
             <p>
               <b><a href='#preventive-medicines'>Preventive Medicines</a>:</b> <a href="#vaccines">Vaccines</a>, <a href="#immunocompromised">For Immunocompromised</a>{' '}
               <b><a href='#protective-measures'>Protective Measures</a>:</b> <a href="#masks">Masks</a>, <a href="#ventilation">Ventilation</a>, <a href="#tests">Tests</a>{' '}
