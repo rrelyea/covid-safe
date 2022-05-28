@@ -142,7 +142,7 @@ function App() {
                 </h3>
                 <p>Treatments for COVID-&#8288;19 are now widely available. If you test positive for COVID-19, talk to a doctor as soon as possible about <a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/treatments-for-severe-illness.html" className="usa-link usa-link--external" rel="noopener">treatment options</a>.</p>
                 <p>The Test-to-Treat program is one easy way to get treatment. Test-to-Treat locations will give you a test and treatment.</p>
-                &#8729; <a href="https://COVID-&#8288;19-test-to-treat-locator-dhhs.hub.arcgis.com" rel="noopener">Find a Test-to-Treat location near you</a>
+                &#8729; <a href="https://aspr.hhs.gov/TestToTreat" rel="noopener">Find a Test-to-Treat location near you</a>
               </div>
             </div>
 
