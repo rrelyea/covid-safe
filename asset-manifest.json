@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "/covid-safe/static/css/main.b71b37b7.css",
-    "main.js": "/covid-safe/static/js/main.bd3b3346.js",
-    "static/js/787.e20a7b6f.chunk.js": "/covid-safe/static/js/787.e20a7b6f.chunk.js",
+    "main.css": "/covid-safe/static/css/main.bcc82c76.css",
+    "main.js": "/covid-safe/static/js/main.b25f1a86.js",
     "static/media/ventilation-icon.svg": "/covid-safe/static/media/ventilation-icon.29229f1fb16487aa29901257bce8600d.svg",
     "static/media/mask.svg": "/covid-safe/static/media/mask.d8cae78a13ac232391ce5811ab22f6e6.svg",
     "static/media/syringe.svg": "/covid-safe/static/media/syringe.b38c1e959bf33ea3da78e3e8da55e343.svg",
     "index.html": "/covid-safe/index.html",
     "static/media/treatment.svg": "/covid-safe/static/media/treatment.a09e7df68ca814cb446f11b37abec728.svg",
     "static/media/beaker.svg": "/covid-safe/static/media/beaker.1aaf5afc3ca5c5651ec5ca248de76833.svg",
-    "main.b71b37b7.css.map": "/covid-safe/static/css/main.b71b37b7.css.map",
-    "main.bd3b3346.js.map": "/covid-safe/static/js/main.bd3b3346.js.map",
-    "787.e20a7b6f.chunk.js.map": "/covid-safe/static/js/787.e20a7b6f.chunk.js.map"
+    "main.bcc82c76.css.map": "/covid-safe/static/css/main.bcc82c76.css.map",
+    "main.b25f1a86.js.map": "/covid-safe/static/js/main.b25f1a86.js.map"
   },
   "entrypoints": [
-    "static/css/main.b71b37b7.css",
-    "static/js/main.bd3b3346.js"
+    "static/css/main.bcc82c76.css",
+    "static/js/main.b25f1a86.js"
   ]
 }
