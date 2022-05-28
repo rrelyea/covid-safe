@@ -118,10 +118,12 @@ function App() {
                   <span>Tests</span>
                 </h3>
                 <p>COVID tests can help you know if you have COVID-&#8288;19 when you have symptoms, have been exposed, or are about to meet up with others.</p>
-                &#8729; <a href="https://covid.gov/tests" rel="noopener">Order free tests</a>
+                &#8729; <a href="https://covid.gov/tests" rel="noopener">Order free tests (US Postal Service)</a><br/>
+                <p>Most people with a health plan can go online, or to a pharmacy or store to purchase a rapid test at no cost (via reimbursement or free of charge through their insurance). Includes health plans you purchase or get through your work:</p>
+                &#8729; <a href="https://www.cms.gov/how-to-get-your-at-home-OTC-COVID-19-test-for-free" rel="noopener">Get tests via your private Health Insurance</a>
 
                 <p>
-                  The latest guidance on using at-home tests, what to do with the results, and how to get at-home tests.
+                  The latest guidance on using at-home tests, what to do with the results, and how to get at-home tests:
                 </p>
                 &#8729; <a href="https://www.cdc.gov/coronavirus/2019-ncov/testing/self-testing.html" rel="noopener">Learn more about at-home testing</a>
               </div>
