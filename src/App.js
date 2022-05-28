@@ -30,7 +30,7 @@ function App() {
                   </div>
                   <span>Vaccines/Boosters</span>
                 </h3>
-                <p>Being fully vaccinated and boosted is the best way to protect against severe illness and hospitalization from COVID-&#8288;19.</p>
+                <p>Being <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html">up to date</a> with your COVID-19 vaccines is the best way to protect against severe illness and hospitalization from COVID-&#8288;19.</p>
                 <a href="https://vaccines.gov/search" rel="noopener">Find a vaccine or booster at vaccines.gov</a>
               </div>
             </div>
