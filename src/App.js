@@ -162,6 +162,7 @@ function App() {
                 &#8729; <a href="https://rrelyea.github.io/paxlovid" rel="noopener">Paxlovid locator</a><br/>
                 &#8729; <a href="https://rrelyea.github.io/bebtelovimab" rel="noopener">Bebtelovimab locator</a><br/> 
                 &#8729; <a href="https://rrelyea.github.io/lagevrio" rel="noopener">Molnuripavir (Lagevrio) locator</a><br/>
+                &#8729; <a href="https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/remdesivir/" rel="noopener">Remdesivir for outpatients</a> (no locator available)<br/>
               </div>
             </div>
           </div>
