@@ -4,6 +4,7 @@ import tests from './assets/img/beaker.svg';
 import syringe from './assets/img/syringe.svg';
 import treatment from './assets/img/treatment.svg';
 import ventilation from './assets/img/ventilation-icon.svg';
+import vaccineSchedule from './assets/img/VaccinationScheduleAtAGlance-20.png';
 
 function App() {
   return ( <div className="App">
@@ -32,6 +33,8 @@ function App() {
                 </h3>
                 <p>Being <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html">up to date</a> with your COVID-19 vaccines is the best way to protect against severe illness and hospitalization from COVID-&#8288;19.</p>
                 <a href="https://vaccines.gov/search" rel="noopener">Find a vaccine or booster at vaccines.gov</a>
+                <p className='mt20'><a href="https://www.cdc.gov/vaccines/covid-19/downloads/COVID-19-vacc-schedule-at-a-glance-508.pdf"><img src={vaccineSchedule} alt="Image of CDC's At-a-Glance Vaccination Schedules Document" /></a></p>
+                <a href="https://www.cdc.gov/vaccines/covid-19/downloads/COVID-19-vacc-schedule-at-a-glance-508.pdf">At-a-Glance Vaccination Schedules</a>
               </div>
             </div>
             <div className="toolkit__box">
