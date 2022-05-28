@@ -29,9 +29,9 @@ function App() {
                   <div className="toolkit__box__icon toolkit__mobile__icon">
                     <img src={syringe} className="small" width="47" height="55" alt="Syringe Icon" />
                   </div>
-                  <span>Vaccines/Boosters</span>
+                  <span>Vaccines</span>
                 </h3>
-                <p>Being <a href="https://www.cdc.gov/vaccines/covid-19/downloads/COVID-19-vacc-schedule-at-a-glance-508.pdf">up to date</a> with your COVID-19 vaccines is the best way to protect against severe illness and hospitalization from COVID-&#8288;19.</p>
+                <p>Being <i>up to date</i> with your COVID-19 vaccines is the best way to protect against severe illness and hospitalization from COVID-&#8288;19.</p>
                 <p className='lt20 mt20'><a href="https://www.cdc.gov/vaccines/covid-19/downloads/COVID-19-vacc-schedule-at-a-glance-508.pdf"><img src={vaccineSchedule} alt="Image of CDC's At-a-Glance Vaccination Schedules Document" /></a></p>
                 <a href="https://vaccines.gov/search" rel="noopener">Find a vaccine or booster at vaccines.gov</a>
               </div>
