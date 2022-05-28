@@ -53,11 +53,11 @@ function App() {
                   <div className="toolkit__box__icon toolkit__mobile__icon">
                     <img src={syringe} className="small" width="47" height="55" alt="Syringe Icon" />
                   </div>
-                  <span>Additional Protection for the Immunocompromised</span>
+                  <span>More Protection for the Immunocompromised</span>
                 </h3>
                 <p>
-                The latest CDC guidance for those who are immunocompromised, including where to get preventative treatment.
-              </p>
+                  In addition to vaccines, Evusheld is a medicine that immunocompromised, in consultation with their doctors, should consider to give them extra needed protection.
+                </p>
               &#8729; <a href="https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html#immunocompromised" rel="noopener">CDC guidance for immunocompromised</a>
 
               <p>If you are moderately to severely immunocompromised, for many finding Evusheld isn't as easy as it should be.</p>
