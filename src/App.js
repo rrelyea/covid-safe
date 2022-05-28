@@ -41,6 +41,8 @@ function App() {
                 <p>Being <i>"up to date"</i> with your COVID-19 vaccines is the best way to protect against severe illness and hospitalization from COVID-&#8288;19.</p>
                 &#8729; <a href="https://vaccines.gov/search" rel="noopener">Find a vaccine or booster at vaccines.gov</a>
                 <p>CDC At-a-Glance schedule:</p><p className='lt50 mt20'><a href="https://www.cdc.gov/vaccines/covid-19/downloads/COVID-19-vacc-schedule-at-a-glance-508.pdf"><img src={vaccineSchedule} alt="Image of CDC's At-a-Glance Vaccination Schedules Document" /></a></p>
+                <p>Latest Clinical Guidance for Covid Vaccinations:</p>
+                &#8729; <a href="https://www.cdc.gov/vaccines/covid-19/clinical-considerations/interim-considerations-us.html">CDC Guidance for Vaccinations</a>
               </div>
             </div>
 
@@ -127,6 +129,7 @@ function App() {
           </div>
 
           <h2 id='have-covid' className="line-title">Have Covid?</h2>
+          <p>Treatments for COVID-&#8288;19 are now widely available. If you test positive for COVID-19, talk to a doctor as soon as possible about <a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/treatments-for-severe-illness.html" className="usa-link usa-link--external" rel="noopener">treatment options</a>.</p>
 
           <div className="toolkit__boxes">
             <div className="toolkit__box">
@@ -140,8 +143,7 @@ function App() {
                   </div>
                   <span>Test-to-Treat</span>
                 </h3>
-                <p>Treatments for COVID-&#8288;19 are now widely available. If you test positive for COVID-19, talk to a doctor as soon as possible about <a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/treatments-for-severe-illness.html" className="usa-link usa-link--external" rel="noopener">treatment options</a>.</p>
-                <p>The Test-to-Treat program is one easy way to get treatment. Test-to-Treat locations will give you a test and treatment.</p>
+                <p>The Test-to-Treat program is one easy way to get tested and get a prescription for treatment.</p>
                 &#8729; <a href="https://aspr.hhs.gov/TestToTreat" rel="noopener">Find a Test-to-Treat location near you</a>
               </div>
             </div>
@@ -157,9 +159,8 @@ function App() {
                   </div>
                   <span>Treatments</span>
                 </h3>
-                <p>Treatments for COVID-&#8288;19 are now widely available. If you test positive for COVID-19, talk to a doctor as soon as possible about <a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/treatments-for-severe-illness.html" className="usa-link usa-link--external" rel="noopener">treatment options</a>.</p>
-                <p>Once you get a prescription, sometimes it helps to know which pharmacies have these in stock:</p>
-                &#8729; <a href="https://rrelyea.github.io/paxlovid" rel="noopener">Paxlovid locator</a><br/>
+                <p>You need to get a prescription for a treatment from your doctor, a <a href="https://aspr.hhs.gov/TestToTreat">Test-to-Treat location</a>, or a telehealth doctor. Then find a pharmacy near you with these treatments in stock:</p>
+                &#8729; <a href="https://rrelyea.github.io/paxlovid" rel="noopener">Paxlovid locator</a> (consult <a href='https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/ritonavir-boosted-nirmatrelvir--paxlovid-/paxlovid-drug-drug-interactions/'>drug-drug interactions</a>)<br/>
                 &#8729; <a href="https://rrelyea.github.io/bebtelovimab" rel="noopener">Bebtelovimab locator</a><br/> 
                 &#8729; <a href="https://rrelyea.github.io/lagevrio" rel="noopener">Molnuripavir (Lagevrio) locator</a><br/>
                 &#8729; <a href="https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/remdesivir/" rel="noopener">Remdesivir for outpatients</a> (no locator available)<br/>
