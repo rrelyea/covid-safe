@@ -31,7 +31,7 @@ function App() {
                   </div>
                   <span>Vaccines</span>
                 </h3>
-                <p>Being <i>up to date</i> with your COVID-19 vaccines is the best way to protect against severe illness and hospitalization from COVID-&#8288;19.</p>
+                <p>Being <i>"up to date"</i> with your COVID-19 vaccines is the best way to protect against severe illness and hospitalization from COVID-&#8288;19.</p>
                 <p className='lt20 mt20'><a href="https://www.cdc.gov/vaccines/covid-19/downloads/COVID-19-vacc-schedule-at-a-glance-508.pdf"><img src={vaccineSchedule} alt="Image of CDC's At-a-Glance Vaccination Schedules Document" /></a></p>
                 <a href="https://vaccines.gov/search" rel="noopener">Find a vaccine or booster at vaccines.gov</a>
               </div>
@@ -72,7 +72,7 @@ function App() {
                   </div>
                   <span>Masks</span>
                 </h3>
-                <p>Wear a mask to protect yourself and others when you go indoors in public.</p>
+                <p>Wear a mask to protect yourself and others when you go indoors in public. We recommend N95 masks, as they are much more protective.</p>
                 <p>Free N95 masks are available at many local pharmacies and healthcare providers. Check with stores in your area to see where you can find free masks.</p>
                 <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/masks.html" rel="noopener">Learn more about masks and where to get them</a>
               </div>
