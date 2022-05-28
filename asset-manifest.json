@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/covid-safe/static/css/main.70472e9d.css",
-    "main.js": "/covid-safe/static/js/main.c60d9af2.js",
+    "main.css": "/covid-safe/static/css/main.52c7070d.css",
+    "main.js": "/covid-safe/static/js/main.bb1060cb.js",
     "static/media/VaccinationScheduleAtAGlance-20.png": "/covid-safe/static/media/VaccinationScheduleAtAGlance-20.d091208fd13d8c5e355c.png",
     "static/media/ventilation-icon.svg": "/covid-safe/static/media/ventilation-icon.29229f1fb16487aa29901257bce8600d.svg",
     "static/media/mask.svg": "/covid-safe/static/media/mask.d8cae78a13ac232391ce5811ab22f6e6.svg",
@@ -9,11 +9,11 @@
     "index.html": "/covid-safe/index.html",
     "static/media/treatment.svg": "/covid-safe/static/media/treatment.a09e7df68ca814cb446f11b37abec728.svg",
     "static/media/beaker.svg": "/covid-safe/static/media/beaker.1aaf5afc3ca5c5651ec5ca248de76833.svg",
-    "main.70472e9d.css.map": "/covid-safe/static/css/main.70472e9d.css.map",
-    "main.c60d9af2.js.map": "/covid-safe/static/js/main.c60d9af2.js.map"
+    "main.52c7070d.css.map": "/covid-safe/static/css/main.52c7070d.css.map",
+    "main.bb1060cb.js.map": "/covid-safe/static/js/main.bb1060cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.70472e9d.css",
-    "static/js/main.c60d9af2.js"
+    "static/css/main.52c7070d.css",
+    "static/js/main.bb1060cb.js"
   ]
 }
