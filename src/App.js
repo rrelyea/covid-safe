@@ -14,7 +14,7 @@ function App() {
       <div className="toolkit">
         <div className="toolkit__wrap">
           <div className="toolkit__intro">
-          <h1 className="center">covid-safe</h1>
+            <a href='https://rrelyea.github.io/covid-safe'><h1 className="center">covid-safe</h1></a>
             <p>Resources to keep yourself and others safe from COVID-⁠19.</p>
             <p>Curated content from government and other trusted sites.</p>
             <p>
