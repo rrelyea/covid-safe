@@ -59,7 +59,7 @@ function App() {
                   <span>More Protection for the Immunocompromised</span>
                 </h3>
                 <p>
-                  Evusheld is a preventive medicine that immunocompromised, in consultation with their doctors, should consider to give them extra needed protection.
+                  Evusheld is a preventive medicine that immunocompromised, in consultation with their doctors, should consider to get extra needed protection.
                 </p>
               &#8729; <a href="https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html#immunocompromised" rel="noopener">CDC guidance for immunocompromised</a>
 
