@@ -19,10 +19,8 @@ function App() {
             <p>Curated content from government and other trusted sites.</p>
             <p>
               <b><a href='#preventive-medicines'>Preventive Medicines</a>:</b> <a href="#vaccines">Vaccines</a>, <a href="#immunocompromised">For Immunocompromised</a><br/>
-              <b><a href='#protective-measures'>Protective Measures</a>:</b> <a href="#masks">Masks</a>, <a href="#ventilation">Ventilation</a>, <a href="#tests">Tests</a><br/>
-              <b><a href='#have-covid'>Have Covid?</a>:</b> <a href="#test-to-treat">Test-to-Treat</a>, <a href="#treatments">Treatments</a>
-            
-             </p>
+              <b><a href='#protective-measures'>Protective Measures</a>:</b> <a href="#masks">Masks</a>, <a href="#ventilation">Air Ventilation</a>, <a href="#tests">Tests</a><br/>
+              <b><a href='#have-covid'>Have Covid?</a>:</b> <a href="#test-to-treat">Test-to-Treat</a>, <a href="#treatments">Treatments</a>, <a href="#longcovid">LongCovid</a>             </p>
           </div>
 
           <h2 id="preventive-medicines" className="line-title">Preventive Medicines</h2>
@@ -100,9 +98,9 @@ function App() {
                   <div className="toolkit__box__icon toolkit__mobile__icon">
                     <img src={ventilation} width="38" height="38" alt="Ventilation Icon" />
                   </div>
-                  <span>Ventilation</span>
+                  <span>Air Ventilation</span>
                 </h3>
-                <p>Staying home with only members of your household is the best way to keep SARS-CoV-2 (the virus that causes COVID-19) particles out of your home. However, if a visitor needs to be in your home, improving ventilation (air flow) can help prevent virus particles from accumulating in the air in your home.</p>
+                <p>You can decrease your chances of get sick with simple actions in your home, like opening windows or filtering the air.</p>
                 &#8729; <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/improving-ventilation-home.html" rel="noopener">Improve Ventilation in Your Home</a>
               </div>
             </div>
@@ -167,6 +165,24 @@ function App() {
                 &#8729; <a href="https://rrelyea.github.io/bebtelovimab" rel="noopener">Bebtelovimab locator</a><br/> 
                 &#8729; <a href="https://rrelyea.github.io/lagevrio" rel="noopener">Molnuripavir (Lagevrio) locator</a><br/>
                 &#8729; <a href="https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/remdesivir/" rel="noopener">Remdesivir for outpatients</a> (no locator available)<br/>
+              </div>
+            </div>
+
+            <div className="toolkit__box">
+              <div className="toolkit__box__icon toolkit__desktop__icon">
+                <img src={treatment} width="38" height="38" alt="Medical Icon" />
+              </div>
+              <div className="toolkit__box__content">
+                <h3 id='longcovid'>
+                  <div className="toolkit__box__icon toolkit__mobile__icon">
+                    <img src={treatment} width="38" height="38" alt="Medical Icon" />
+                  </div>
+                  <span>LongCovid</span>
+                </h3>
+                <p>
+                  Help the National Institutes of Health learn more about long term COVID-19 symptoms and how to treat them.
+                </p>
+                &#8729; <a href="https://recovercovid.org/" rel="noopener">Join a research study near you</a>
               </div>
             </div>
           </div>
