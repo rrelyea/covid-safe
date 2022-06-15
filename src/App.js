@@ -63,6 +63,9 @@ function App() {
 
               <p>If you are moderately to severely immunocompromised, for many finding Evusheld isn't as easy as it should be.</p>
               &#8729; <a href="https://rrelyea.github.io/evusheld" rel="noopener">Evusheld locator</a>
+
+              <p>Tips and trick to get Evusheld if you are qualified</p>
+              &#8729; <a href="https://rrelyea.github.io/evusheld/guide/" rel="noopener">Evusheld Guide</a>
                
               </div>
             </div>
