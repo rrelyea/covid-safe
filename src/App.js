@@ -90,6 +90,8 @@ function App() {
                 <p>Free N95 masks are available at many local pharmacies and healthcare providers. Check with stores in your area to see where you can find free masks.</p>
                 &#8729; <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/masks.html" rel="noopener">Learn more about masks and where to get them</a><br/>
                 &#8729; <a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/free-masks.html" rel="noopener">Free mask locator</a>
+                <p>Mask Nerd: technical analysis of masks -- youtube channel</p>
+                &#8729; <a href="https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg">Mask Nerd YouTube Channel</a>
               </div>
             </div>
 
