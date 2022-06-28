@@ -106,6 +106,8 @@ function App() {
                 </h3>
                 <p>You can decrease your chances of get sick with simple actions in your home, like opening windows or filtering the air.</p>
                 &#8729; <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/improving-ventilation-home.html" rel="noopener">Improve Ventilation in Your Home</a>
+                <p>CleanAirCrew.org: DIY box fan air filters – Corsi-Rosenthal box</p>
+                &#8729; <a href="https://cleanaircrew.org/box-fan-filters/">Corsi-Rosenthal Box Fans</a>
               </div>
             </div>
 
