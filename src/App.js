@@ -61,6 +61,10 @@ function App() {
                   Evusheld is a preventive medicine that immunocompromised, in consultation with their doctors, should consider to get extra needed protection.
                 </p>
               &#8729; <a href="https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html#immunocompromised" rel="noopener">CDC guidance for immunocompromised</a>
+              <p>
+                  Evusheld News: 6/29/2022: FDA authorizes Evusheld doses every 6 months.
+                </p>
+              &#8729; <a href="https://www.fda.gov/drugs/drug-safety-and-availability/fda-authorizes-revisions-evusheld-dosing" rel="noopener">Evusheld dose should be repeated every 6 months (fda.gov)</a>
 
               <p>If you are moderately to severely immunocompromised, for many finding Evusheld isn't as easy as it should be.</p>
               &#8729; <a href="https://rrelyea.github.io/evusheld" rel="noopener">Evusheld locator</a>
