@@ -1,5 +1,5 @@
 # covid-safe
 
-Resources to keep yourself and others safe from COVID-⁠19. (Info from covid.gov, reorganized, and supplemented.)
+This repo moved to: https://github.com/covidsafe-fyi/covidsafe
 
-[https://rrelyea.github.io/covid-safe](https://rrelyea.github.io/covid-safe)
+To see the website in action, see https://covidsafe.fyi
